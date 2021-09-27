@@ -22,4 +22,13 @@ public class PuzzleJava {
         int index = randMachine.nextInt(26);
         return letters[index];
     }
+
+    public String generatePassword(){
+        String password = "";
+        for(int i = 0; i < 8; i++){
+            password += getRandomLetter();
+        }
+        return password;
+    }
+
 }
