@@ -72,6 +72,6 @@ public class Order {
             for(Item item:items){
                 System.out.println(item.getName() + " - $" + item.getPrice());
              }
-            System.out.println("Total: $" + getOrderTotal();
+            System.out.println("Total: $" + getOrderTotal());
     }
 }
