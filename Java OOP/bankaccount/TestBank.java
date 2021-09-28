@@ -3,7 +3,7 @@ public class TestBank {
         BankAccount account1 = new BankAccount();
         BankAccount account2 = new BankAccount();
         BankAccount account3 = new BankAccount();
-        BankAccount account4 = new BankAccount();
+     
         System.out.println(BankAccount.getAccountsCreated());
         account1.depositeMoney("checking", 1200);
         account1.depositeMoney("saving", 500);
