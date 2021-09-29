@@ -5,7 +5,7 @@ public class Bat extends Mammal {
 		energyLevel = 300;
 	}
 	public void fly() {
-		System.out.println("oof oof"!");
+		System.out.println("oof oof!");
 		this.energyLevel -= 50;
 	}
 	public void eatHumans() {
