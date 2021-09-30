@@ -1,0 +1,68 @@
+2021-09-30 14:28:18,397 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-30 14:31:42,304 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.daikichi:DaikichiRoutes:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/pom.xml.
+2021-09-30 14:31:44,139 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DaikichiRoutes/src/main/java
+2021-09-30 14:31:44,140 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DaikichiRoutes/src/main/resources
+2021-09-30 14:31:44,145 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DaikichiRoutes/src/main/resources
+2021-09-30 14:31:44,152 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DaikichiRoutes/src/test/java
+2021-09-30 14:31:51,041 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2021-09-30 14:31:51,048 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-30 14:31:51,713 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.daikichi:DaikichiRoutes:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/pom.xml.
+2021-09-30 14:31:52,574 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DaikichiRoutes/src/main/java
+2021-09-30 14:31:52,575 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DaikichiRoutes/src/main/resources
+2021-09-30 14:31:52,575 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DaikichiRoutes/src/main/resources
+2021-09-30 14:31:52,576 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DaikichiRoutes/src/test/java
+2021-09-30 14:31:53,110 [Worker-0: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for DaikichiRoutes
+2021-09-30 14:31:53,122 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-09-30 14:31:54,177 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:31:54,177 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:31:54,190 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 14:31:54,212 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 14:31:54,217 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:31:54,217 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:31:54,217 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/src/test/resources
+2021-09-30 14:31:54,218 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of DaikichiRoutes
+2021-09-30 14:31:54,219 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for DaikichiRoutes
+2021-09-30 14:31:54,224 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:31:54,225 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:41:00,055 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:41:00,055 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:41:00,058 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 14:41:00,065 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 14:41:00,067 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:41:00,067 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:41:00,067 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/src/test/resources
+2021-09-30 14:41:38,833 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:41:38,834 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:41:38,834 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 14:41:38,841 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 14:41:38,843 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:41:38,844 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:41:38,844 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/src/test/resources
+2021-09-30 14:42:22,852 [Worker-18: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:42:22,852 [Worker-18: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:42:22,853 [Worker-18: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 14:42:22,862 [Worker-18: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 14:42:22,865 [Worker-18: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:42:22,865 [Worker-18: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:42:22,865 [Worker-18: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/src/test/resources
+2021-09-30 14:44:26,812 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:44:26,812 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:44:26,813 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 14:44:26,913 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 14:44:26,919 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:44:26,919 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:44:26,919 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/src/test/resources
+2021-09-30 14:45:45,330 [Worker-26: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:45:45,330 [Worker-26: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:45:45,331 [Worker-26: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 14:45:45,344 [Worker-26: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 14:45:45,346 [Worker-26: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:45:45,347 [Worker-26: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:45:45,347 [Worker-26: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/src/test/resources
+2021-09-30 14:50:15,911 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:50:15,911 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:50:15,912 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 14:50:15,918 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 14:50:15,920 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 14:50:15,920 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 14:50:15,920 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/src/test/resources
