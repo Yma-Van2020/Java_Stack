@@ -66,3 +66,132 @@
 2021-09-30 14:50:15,920 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-30 14:50:15,920 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-09-30 14:50:15,920 [Worker-24: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/spring projects/DaikichiRoutes/src/test/resources
+2021-09-30 16:26:21,275 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-30 16:26:24,558 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:26:24,559 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:26:24,565 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 16:26:24,601 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:26:24,604 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:26:24,605 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:26:24,605 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 16:26:28,060 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.daikichi:DaikichiRoutes:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/pom.xml.
+2021-09-30 16:26:29,503 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:26:29,503 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:26:29,504 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:26:29,504 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:26:29,525 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:26:29,525 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:26:29,525 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 16:34:48,442 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:34:48,444 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:34:48,447 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 16:34:48,457 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:34:48,459 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:34:48,459 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:34:48,459 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 16:35:39,814 [Worker-19: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:35:39,815 [Worker-19: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:35:39,816 [Worker-19: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 16:35:39,849 [Worker-19: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:35:39,852 [Worker-19: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:35:39,852 [Worker-19: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:35:39,852 [Worker-19: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 16:35:57,793 [Worker-16: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:35:57,793 [Worker-16: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:35:57,794 [Worker-16: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 16:35:57,821 [Worker-16: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:35:57,823 [Worker-16: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:35:57,823 [Worker-16: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:35:57,823 [Worker-16: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 16:37:08,430 [Worker-22: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:37:08,430 [Worker-22: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:37:08,431 [Worker-22: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 16:37:08,436 [Worker-22: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:37:08,440 [Worker-22: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:37:08,440 [Worker-22: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:37:08,440 [Worker-22: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 16:53:05,478 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-30 16:54:28,866 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for org.springframework.boot:spring-boot-starter-parent:pom:2.5.5
+2021-09-30 16:54:28,869 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for com.katelyn.daikichi:DaikichiRoutes:war:0.0.1-SNAPSHOT
+2021-09-30 16:54:50,664 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-30 16:57:49,716 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.human:HelloHuman:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/pom.xml.
+2021-09-30 16:57:51,135 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloHuman/src/main/java
+2021-09-30 16:57:51,135 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloHuman/src/main/resources
+2021-09-30 16:57:51,147 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloHuman/src/main/resources
+2021-09-30 16:57:51,154 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloHuman/src/test/java
+2021-09-30 16:57:52,903 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2021-09-30 16:57:52,907 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-30 16:57:53,467 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.human:HelloHuman:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/pom.xml.
+2021-09-30 16:57:54,220 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloHuman/src/main/java
+2021-09-30 16:57:54,220 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloHuman/src/main/resources
+2021-09-30 16:57:54,229 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloHuman/src/main/resources
+2021-09-30 16:57:54,243 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloHuman/src/test/java
+2021-09-30 16:57:54,685 [Worker-12: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloHuman
+2021-09-30 16:57:54,697 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-09-30 16:57:55,527 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:57:55,527 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:57:55,531 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 16:57:55,576 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:57:55,581 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:57:55,581 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:57:55,581 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 16:57:56,336 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:57:56,337 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:57:56,337 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 16:57:56,340 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 16:57:56,344 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:57:56,344 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 16:57:56,344 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 16:57:56,345 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloHuman
+2021-09-30 16:57:56,345 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloHuman
+2021-09-30 16:57:56,350 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 16:57:56,350 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:01:57,637 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:01:57,638 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:01:57,641 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 17:01:57,664 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 17:01:57,667 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:01:57,667 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:01:57,667 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 17:10:15,670 [Worker-23: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:10:15,671 [Worker-23: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:10:15,671 [Worker-23: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 17:10:15,676 [Worker-23: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 17:10:15,678 [Worker-23: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:10:15,678 [Worker-23: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:10:15,678 [Worker-23: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 17:11:39,774 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:11:39,774 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:11:39,775 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 17:11:39,786 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 17:11:39,792 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:11:39,793 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:11:39,793 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 17:14:17,899 [Worker-31: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:14:17,899 [Worker-31: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:14:17,900 [Worker-31: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 17:14:17,914 [Worker-31: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 17:14:17,918 [Worker-31: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:14:17,918 [Worker-31: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:14:17,918 [Worker-31: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 17:16:32,825 [Worker-33: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:16:32,828 [Worker-33: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:16:32,828 [Worker-33: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 17:16:32,834 [Worker-33: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 17:16:32,836 [Worker-33: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:16:32,836 [Worker-33: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:16:32,836 [Worker-33: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 17:21:32,184 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:21:32,188 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:21:32,189 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 17:21:32,195 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 17:21:32,197 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:21:32,197 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:21:32,197 [Worker-21: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 17:21:45,680 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:21:45,680 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:21:45,681 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 17:21:45,686 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 17:21:45,688 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 17:21:45,688 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 17:21:45,688 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
