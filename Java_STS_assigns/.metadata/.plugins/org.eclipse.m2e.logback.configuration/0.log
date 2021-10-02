@@ -259,3 +259,391 @@
 2021-09-30 19:53:23,281 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-30 19:53:23,281 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-09-30 19:53:23,281 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 21:38:48,913 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-30 21:43:08,672 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-30 21:44:19,423 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-30 21:57:07,680 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-30 21:57:59,202 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 21:57:59,204 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 21:57:59,210 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 21:57:59,231 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 21:57:59,234 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 21:57:59,234 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 21:57:59,234 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 21:58:00,370 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 21:58:00,371 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 21:58:00,372 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 21:58:00,372 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 21:58:00,374 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 21:58:00,374 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 21:58:00,374 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-09-30 21:58:00,671 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 21:58:00,671 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 21:58:00,672 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 21:58:00,673 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 21:58:00,676 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 21:58:00,676 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 21:58:00,676 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 22:02:55,261 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 22:02:55,261 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 22:02:55,262 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 22:02:55,262 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 22:02:55,266 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 22:02:55,266 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 22:02:55,266 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-09-30 22:42:26,313 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 22:42:26,313 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 22:42:26,313 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 22:42:26,313 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 22:42:26,319 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 22:42:26,319 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-30 22:42:26,319 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-10-01 13:40:09,928 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-01 14:54:14,123 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.human:HelloHuman:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/pom.xml.
+2021-10-01 14:54:15,921 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.53/tomcat-embed-jasper-9.0.53.pom
+2021-10-01 14:54:15,962 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.53/tomcat-embed-jasper-9.0.53.pom
+2021-10-01 14:54:15,988 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/9.0.53/tomcat-annotations-api-9.0.53.pom
+2021-10-01 14:54:16,016 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/9.0.53/tomcat-annotations-api-9.0.53.pom
+2021-10-01 14:54:16,042 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0.pom
+2021-10-01 14:54:16,084 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0.pom
+2021-10-01 14:54:16,150 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0.jar
+2021-10-01 14:54:16,390 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.53/tomcat-embed-jasper-9.0.53.jar
+2021-10-01 14:54:16,840 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.53/tomcat-embed-jasper-9.0.53.jar
+2021-10-01 14:54:16,991 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0.jar
+2021-10-01 14:54:18,557 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 14:54:18,557 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 14:54:18,561 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-01 14:54:18,655 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-01 14:54:18,658 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 14:54:18,658 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 14:54:18,665 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-10-01 14:54:18,686 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloHuman
+2021-10-01 14:54:18,689 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloHuman
+2021-10-01 14:54:18,706 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 14:54:18,706 [Worker-18: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 14:54:19,189 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 14:54:19,189 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 14:54:19,192 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-01 14:54:19,195 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-01 14:54:19,198 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 14:54:19,198 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 14:54:19,198 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-10-01 14:54:19,313 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.53/tomcat-embed-jasper-9.0.53-sources.jar
+2021-10-01 14:54:19,497 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.53/tomcat-embed-jasper-9.0.53-sources.jar
+2021-10-01 14:54:19,551 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-jasper:9.0.53
+2021-10-01 14:54:19,682 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0-sources.jar
+2021-10-01 14:54:20,231 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0-sources.jar
+2021-10-01 14:54:20,289 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jdt:ecj:3.18.0
+2021-10-01 14:54:21,271 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 14:54:21,271 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 14:54:21,271 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-01 14:54:21,271 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-01 14:54:21,273 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 14:54:21,273 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 14:54:21,273 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-10-01 15:09:14,428 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-01 15:13:40,079 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-01 15:13:59,933 [Worker-7: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 15:13:59,935 [Worker-7: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 15:13:59,941 [Worker-7: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-01 15:14:00,046 [Worker-7: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-01 15:14:00,061 [Worker-7: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 15:14:00,061 [Worker-7: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 15:14:00,062 [Worker-7: Launching HelloHuman - HelloHumanApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-10-01 15:14:02,269 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 15:14:02,269 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 15:14:02,270 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-01 15:14:02,271 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-01 15:14:02,273 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-01 15:14:02,273 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-01 15:14:02,273 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-10-01 17:31:56,042 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-01 18:40:01,442 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-02 10:36:55,397 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-10-02 10:37:36,448 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:37:36,448 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:37:36,452 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-02 10:37:36,469 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 10:37:36,473 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:37:36,474 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:37:36,474 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/DaikichiRoutes/src/test/resources
+2021-10-02 10:37:37,558 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:37:37,559 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:37:37,559 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-02 10:37:37,560 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 10:37:37,564 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:37:37,564 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:37:37,564 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HelloHuman/src/test/resources
+2021-10-02 10:42:41,964 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-02 10:44:06,696 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.hopper:HoppersReceipt:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/pom.xml.
+2021-10-02 10:44:08,201 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HoppersReceipt/src/main/java
+2021-10-02 10:44:08,202 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HoppersReceipt/src/main/resources
+2021-10-02 10:44:08,208 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HoppersReceipt/src/main/resources
+2021-10-02 10:44:08,226 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HoppersReceipt/src/test/java
+2021-10-02 10:44:10,245 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2021-10-02 10:44:10,249 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-02 10:44:10,796 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.hopper:HoppersReceipt:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/pom.xml.
+2021-10-02 10:44:11,713 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HoppersReceipt/src/main/java
+2021-10-02 10:44:11,714 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HoppersReceipt/src/main/resources
+2021-10-02 10:44:11,714 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HoppersReceipt/src/main/resources
+2021-10-02 10:44:11,715 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HoppersReceipt/src/test/java
+2021-10-02 10:44:12,429 [Worker-6: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HoppersReceipt
+2021-10-02 10:44:12,438 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-10-02 10:44:13,429 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:44:13,430 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:44:13,433 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-02 10:44:13,447 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 10:44:13,451 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:44:13,451 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:44:13,451 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 10:44:13,452 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HoppersReceipt
+2021-10-02 10:44:13,453 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HoppersReceipt
+2021-10-02 10:44:13,459 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:44:13,459 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:45:02,134 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.hopper:HoppersReceipt:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/pom.xml.
+2021-10-02 10:45:02,910 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HoppersReceipt/src/main/java
+2021-10-02 10:45:02,910 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HoppersReceipt/src/main/resources
+2021-10-02 10:45:02,917 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HoppersReceipt/src/main/resources
+2021-10-02 10:45:02,925 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HoppersReceipt/src/test/java
+2021-10-02 10:45:03,537 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2021-10-02 10:45:03,538 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-02 10:45:04,111 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.hopper:HoppersReceipt:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/pom.xml.
+2021-10-02 10:45:05,033 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HoppersReceipt/src/main/java
+2021-10-02 10:45:05,033 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HoppersReceipt/src/main/resources
+2021-10-02 10:45:05,033 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HoppersReceipt/src/main/resources
+2021-10-02 10:45:05,033 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HoppersReceipt/src/test/java
+2021-10-02 10:45:05,305 [Worker-4: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HoppersReceipt
+2021-10-02 10:45:05,310 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-10-02 10:45:05,936 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:45:05,936 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:45:05,936 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-02 10:45:05,951 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 10:45:05,954 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:45:05,954 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:45:05,954 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 10:45:05,955 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HoppersReceipt
+2021-10-02 10:45:05,955 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HoppersReceipt
+2021-10-02 10:45:05,959 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:45:05,959 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:48:29,240 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:48:29,240 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:48:29,243 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-02 10:48:29,248 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 10:48:29,249 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 10:48:29,250 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 10:48:29,250 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:44:22,212 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:488)
+	at org.eclipse.core.internal.resources.Project$1.run(Project.java:565)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Project.internalBuild(Project.java:603)
+	at org.eclipse.core.internal.resources.Project.build(Project.java:116)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.lambda$0(LaunchConfigurationDelegate.java:406)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2333)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildProjects(LaunchConfigurationDelegate.java:412)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildForLaunch(LaunchConfigurationDelegate.java:122)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:777)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1021)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1224)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>\ncopy\n\t\t\n\t</... @46:4) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 34 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>\ncopy\n\t\t\n\t</... @46:4) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 36 common frames omitted
+2021-10-02 11:44:22,492 [Worker-13: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>\ncopy\n\t\t\n\t</... @46:4) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>\ncopy\n\t\t\n\t</... @46:4) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2021-10-02 11:44:30,588 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katelyn.hopper:HoppersReceipt:0.0.1-SNAPSHOT @ /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/pom.xml.
+2021-10-02 11:44:31,985 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2021-10-02 11:44:31,985 [Worker-18: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2021-10-02 11:44:32,021 [Worker-18: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2021-10-02 11:44:32,021 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2021-10-02 11:44:32,053 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2021-10-02 11:44:32,056 [Worker-18: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2021-10-02 11:44:32,220 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2021-10-02 11:44:32,457 [Worker-18: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2021-10-02 11:44:33,128 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:44:33,128 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:44:33,131 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:44:33,131 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:44:33,134 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:44:33,134 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:44:33,134 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:44:33,135 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HoppersReceipt
+2021-10-02 11:44:33,135 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HoppersReceipt
+2021-10-02 11:44:33,139 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:44:33,140 [Worker-14: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:44:33,835 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:44:33,835 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:44:33,836 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-02 11:44:33,850 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:44:33,851 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:44:33,852 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:44:33,852 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:44:34,079 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2-sources.jar
+2021-10-02 11:44:34,233 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2-sources.jar
+2021-10-02 11:44:34,276 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2021-10-02 11:44:35,134 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:44:35,135 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:44:35,135 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:44:35,135 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:44:35,136 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:44:35,136 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:44:35,137 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:47:40,489 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:47:40,489 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:47:40,489 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:47:40,489 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:47:40,491 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:47:40,491 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:47:40,491 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:48:12,624 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:48:12,624 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:48:12,625 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:48:12,625 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:48:12,626 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:48:12,627 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:48:12,627 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:48:28,487 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:48:28,487 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:48:28,487 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:48:28,488 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:48:28,489 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:48:28,489 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:48:28,489 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:48:53,761 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:48:53,761 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:48:53,761 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:48:53,761 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:48:53,766 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:48:53,766 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:48:53,767 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:50:14,687 [Worker-21: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:50:14,687 [Worker-21: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:50:14,689 [Worker-21: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-02 11:50:14,694 [Worker-21: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:50:14,696 [Worker-21: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:50:14,696 [Worker-21: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:50:14,696 [Worker-21: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:52:31,482 [Worker-23: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:52:31,483 [Worker-23: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:52:31,483 [Worker-23: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:52:31,483 [Worker-23: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:52:31,491 [Worker-23: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:52:31,492 [Worker-23: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:52:31,492 [Worker-23: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:57:26,039 [Worker-27: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:57:26,040 [Worker-27: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:57:26,040 [Worker-27: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-02 11:57:26,079 [Worker-27: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:57:26,090 [Worker-27: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:57:26,090 [Worker-27: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:57:26,090 [Worker-27: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 11:58:28,541 [Worker-28: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:58:28,541 [Worker-28: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:58:28,542 [Worker-28: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:58:28,542 [Worker-28: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 11:58:28,543 [Worker-28: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 11:58:28,543 [Worker-28: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 11:58:28,543 [Worker-28: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 12:06:44,550 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:06:44,550 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:06:44,550 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:06:44,551 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:06:44,552 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:06:44,552 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:06:44,552 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 12:07:02,406 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:07:02,406 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:07:02,406 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:07:02,407 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:07:02,415 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:07:02,416 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:07:02,416 [Worker-25: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 12:07:20,243 [Worker-33: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:07:20,243 [Worker-33: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:07:20,243 [Worker-33: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:07:20,244 [Worker-33: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:07:20,245 [Worker-33: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:07:20,245 [Worker-33: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:07:20,245 [Worker-33: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 12:07:51,279 [Worker-34: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:07:51,279 [Worker-34: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:07:51,279 [Worker-34: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:07:51,279 [Worker-34: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:07:51,284 [Worker-34: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:07:51,284 [Worker-34: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:07:51,284 [Worker-34: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
+2021-10-02 12:11:19,134 [Worker-36: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:11:19,134 [Worker-36: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:11:19,134 [Worker-36: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:11:19,134 [Worker-36: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-02 12:11:19,137 [Worker-36: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-02 12:11:19,137 [Worker-36: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-02 12:11:19,137 [Worker-36: Launching HoppersReceipt - HoppersReceiptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/candice/Dropbox/My Mac (dhcp-54-9f-13-45-8e-57.ubcvisitor.wifi.ubc.ca)/Desktop/Java_Stack/Java_STS_assigns/HoppersReceipt/src/test/resources
