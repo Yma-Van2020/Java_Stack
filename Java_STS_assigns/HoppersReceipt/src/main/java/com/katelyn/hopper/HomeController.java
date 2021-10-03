@@ -1,5 +1,7 @@
 package com.katelyn.hopper;
 
+import java.util.ArrayList;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -15,8 +17,13 @@ public class HomeController {
         double price = 5.25;
         String description = "Metal strips, also an illustration of nanoseconds.";
         String vendor = "Little Things Corner Store";
-    
+        ArrayList<String> dojos = new ArrayList<String>();
 
+        dojos.add("Burbank");
+        dojos.add("Chicago");
+        dojos.add("Bellevue");
+        model.addAttribute("dojosList", dojos);
+        
 	    model.addAttribute("name", name);
 	    model.addAttribute("itemName", itemName);
 	    model.addAttribute("price", price);
