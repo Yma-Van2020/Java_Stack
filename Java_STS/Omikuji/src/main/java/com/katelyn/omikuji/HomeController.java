@@ -13,7 +13,7 @@ public class HomeController {
 	@GetMapping("/omikuji")
 	public String omikuji() {
 		
-		return "index.jsp";
+		return "index";
 	}
 	
 	@PostMapping("/submit")
@@ -45,7 +45,7 @@ public class HomeController {
 		model.addAttribute("endeavorHobby", session.getAttribute("endeavorHobby"));
 		model.addAttribute("living", session.getAttribute("living"));
 		model.addAttribute("nice", session.getAttribute("nice"));
-		return "display.jsp";
+		return "display";
 	}
 			
 }
