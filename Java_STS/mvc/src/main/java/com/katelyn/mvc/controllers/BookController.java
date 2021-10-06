@@ -23,12 +23,17 @@ public class BookController {
 		Book book = bookservice.findBook(bookId);
 		System.out.println(book);
 		
-		ArrayList<Book> books = (ArrayList<Book>) bookservice.allBooks();
 		model.addAttribute("book", book);
-		model.addAttribute("books", books);
 		
 		
 		return "show.jsp";
+	}
+	
+	@GetMapping("/books")
+	public String index(Model model) {
+		ArrayList<Book> books = (ArrayList<Book>) bookservice.allBooks();
+		model.addAttribute("books", books);
+		return "/books/index.jsp";
 	}
 	
 }
