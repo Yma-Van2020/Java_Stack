@@ -26,15 +26,15 @@ public class Book {
 	private Long id;
 	
 	@NotNull
-	@Size(min = 5, max = 200)
+	@Size(min = 5, max = 200, message="title must be at least 5 chars")
 	private String title;
 	
 	@NotNull
-	@Size(min= 5, max = 200)
+	@Size(min= 5, max = 200, message="description must be at least 5 chars")
 	private String description;
 	
 	@NotNull
-	@Size(min = 3, max = 40)
+	@Size(min = 3, max = 40, message="language must be at least 3 chars")
 	private String language;
 	
 	@NotNull 
