@@ -11,14 +11,18 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Tacos</title>
+    <title>show</title>
     <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/main.css"> <!-- change to match your file/naming structure -->
     <script src="/webjars/jquery/jquery.min.js"></script>
     <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
 </head>
-<body>
-   
-
+<body class="p-5">
+   <h1>${ book.title}</h1>
+   <p>
+   Description: ${ book.description}<br/>
+   Language: ${book.language }<br/>
+   Number of pages: ${ book.numberOfPages }
+   </p>
 </body>
 </html>
