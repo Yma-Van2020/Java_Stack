@@ -57,4 +57,22 @@ public class BookController {
 		}
 	}
 	
+	@RequestMapping("/books/{id}/edit")
+	public String edit(@PathVariable("id") Long id, Model model) {
+		Book book = bookservice.findBook(id);
+		model.addAttribute("book", book);
+		return "/books/edit.jsp";
+	}
+	
+	@RequestMapping(value="/books/{id}", method=RequestMethod.PUT)
+	public String update(@Valid @ModelAttribute("book") Book book, BindingResult result, @PathVariable("id") Long id) {
+		if(result.hasErrors()) {
+			return "/books/edit.jsp";
+		} else {
+			bookservice.createBook(book);
+			return "redirect:/books";
+		}
+	}
+	
+	
 }
