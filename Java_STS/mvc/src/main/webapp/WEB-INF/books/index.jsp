@@ -20,6 +20,7 @@
 <body class="p-5">
    
    <h1>All the books</h1>
+   <a href="/books/new">Create new book</a>
  <table  class="table table-dark">
  <thead>
  <tr>
@@ -38,7 +39,15 @@
 		 <td> <a href="/books/${book.id}"><c:out value=" ${book.title}"/></a></td>
 		 <td> <c:out value=" ${book.language}"/></td>
 		 <td> <c:out value=" ${book.numberOfPages}"/></td>
-		 <td> <a href="/books/${ book.id }/edit">Edit</a></td>
+		 <td> <a href="/books/${ book.id }/edit">Edit</a> | 
+
+		<form action="/books/${book.id }/delete" method="post">
+		<input type="hidden" name="_method" value="delete">
+		<input class="btn btn-secondary" type="submit" value="Delete" />
+		
+		</form>
+		
+</td>
 		    
 		</tr>
 		 </c:forEach>

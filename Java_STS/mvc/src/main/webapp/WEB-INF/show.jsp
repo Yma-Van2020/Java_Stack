@@ -24,5 +24,12 @@
    Language: ${book.language }<br/>
    Number of pages: ${ book.numberOfPages }
    </p>
+   
+		<form action="/books/${book.id }/delete" method="post">
+		<input type="hidden" name="_method" value="delete">
+		<input class="btn btn-secondary" type="submit" value="Delete" />
+		
+		</form>
+		  <a href="/books">Go back</a>
 </body>
 </html>
