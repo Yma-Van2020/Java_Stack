@@ -43,7 +43,7 @@
 							<td><a href="/dojos/${dojo.id}"><c:out value="${ dojo.name }" /></a></td>
 							<td><form action="/dojos/${ dojo.id }/delete" method="post">
 								    <input type="hidden" name="_method" value="delete">
-								    <input type="submit" value="Delete">
+								    <input class="btn btn-secondary" type="submit" value="Delete">
 								</form></td>
 							
 						</tr>
