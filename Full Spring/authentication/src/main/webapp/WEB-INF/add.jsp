@@ -25,9 +25,9 @@
 <h1>Add a Book to your shelf</h1>
 <a href="/home">back to the shelves</a>
 
-	<form:form action="/books/create" method="post" modelAttribute="book">\
+	<form:form action="/books/create" method="post" modelAttribute="book">
 		<p>
-		
+			<form:hidden path="postedBy" value="${postedBy.id}"/>
 			<form:label path="title">Title:</form:label>
 			<form:input type="text" path="title" />
 			<form:errors path="title" class="text-danger"/>
