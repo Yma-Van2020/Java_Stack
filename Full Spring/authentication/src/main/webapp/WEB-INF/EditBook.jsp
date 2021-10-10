@@ -21,7 +21,36 @@
     <link rel="stylesheet" href="/css/style.css"/>
 </head>
 <body>
-<h1>You are now logged in</h1>
-<a href="/logout">Logout</a>
+
+<h1>Change your Entry</h1>
+<a href="/home">back to the shelves</a>
+
+	<form:form action="/books/${book.id}/update" method="put" modelAttribute="book" class="form-control">
+
+		<p>
+		 	<form:hidden path="postedBy" value="${book.postedBy.id}"/>
+			<form:label path="title">Title:</form:label>
+			<form:input  path="title" />
+			<form:errors path="title" class="text-danger"/>
+		</p>
+ 
+
+		<p>
+			<form:label path="author">Author:</form:label>
+			<form:input path="author" />
+			<form:errors path="author" class="text-danger"/>
+		</p>	
+			
+		
+		<p>
+			<form:label path="thoughts">My thoughts:</form:label>
+			<form:input path="thoughts" />
+			<form:errors path="thoughts" class="text-danger"/>
+			
+		</p>	
+		
+			<input class="btn btn-primary" type="submit" value="Submit" />
+			
+	</form:form>
 </body>
 </html>

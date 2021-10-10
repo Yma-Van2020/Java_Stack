@@ -37,5 +37,7 @@ Here are <c:out value="${book.postedBy.userName }"/>'s thoughts:
 <hr/>
 <br/>
 </h3>
+
+<a href="/books/${book.id}/edit">Edit</a>
 </body>
 </html>

@@ -46,6 +46,14 @@ public class Book {
     public Book() {}
     
     
+	public Book(@NotEmpty String title, @NotEmpty String author, @NotEmpty String thoughts, @NotNull User postedBy) {
+		this.title = title;
+		this.author = author;
+		this.thoughts = thoughts;
+		this.postedBy = postedBy;
+	}
+
+
 	@PrePersist
     protected void onCreate(){
         this.createdAt = new Date();
