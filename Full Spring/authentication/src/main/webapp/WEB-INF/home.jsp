@@ -38,7 +38,7 @@
 						<th>Title</th>
 						<th>Author Name</th>
 						<th>Posted By</th>
-						<!-- <th>Action</th> -->
+						<th>Action</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -48,11 +48,12 @@
 							<td><a href="/books/${ book.id }"><c:out value="${ book.title }"/></a></td>
 							<td><c:out value="${ book.author }"/></td>
 							<td><c:out value="${ book.postedBy.userName }"/></td>
-							<!-- <td>	
+							<td>	
 									<form action="/books/${ book.id }/delete" method="post">
 								    <input type="hidden" name="_method" value="delete">
 								    <input class="btn btn-secondary" type="submit" value="Delete">
-							</td> -->
+									</form>
+							</td>
 						</tr>
 					</c:forEach>
 				</tbody>

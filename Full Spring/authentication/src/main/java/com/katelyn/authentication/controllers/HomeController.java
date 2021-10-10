@@ -83,6 +83,7 @@ public class HomeController {
 		model.addAttribute("user", user);
 		return "home.jsp";
 	}
+	
 }
 
 
