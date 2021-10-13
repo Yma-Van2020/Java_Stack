@@ -45,14 +45,23 @@
 					<c:forEach items="${ books }" var="book">
 						<tr>
 							<td><c:out value="${ book.id }"/></td>
-							<td><a href="/books/${ book.id }"><c:out value="${ book.title }"/></a></td>
+							<td>
+							<c:choose>
+							<c:when test="${ user.id == book.postedBy.id}"><a href="/books/${ book.id }"><c:out value="${ book.title }"/></a></c:when>
+							<c:otherwise>
+							<c:out value="${ book.title }"/>
+							</c:otherwise>
+							</c:choose>
+							</td>
 							<td><c:out value="${ book.author }"/></td>
 							<td><c:out value="${ book.postedBy.userName }"/></td>
 							<td>	
+							<c:if test="${ user.id == book.postedBy.id}">
 									<form action="/books/${ book.id }/delete" method="post">
 								    <input type="hidden" name="_method" value="delete">
 								    <input class="btn btn-secondary" type="submit" value="Delete">
 									</form>
+							</c:if>
 							</td>
 						</tr>
 					</c:forEach>
