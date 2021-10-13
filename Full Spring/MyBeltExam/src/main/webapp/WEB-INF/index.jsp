@@ -21,12 +21,12 @@
     <link rel="stylesheet" href="/css/style.css"/>
 </head>
 <body style="padding: 150px">
-	<h1 style="color:purple"></h1>
+	<h1 style="color:cornflowerblue">Course Platform - Instructors</h1>
 	
-	<h1>Register</h1>
+	<h1>New Instructor</h1>
     <form:form action="/register" method="post" modelAttribute="newUser">
         <div class="form-group">
-            <label>User Name:</label>
+            <label>Name:</label>
             <form:input path="userName" class="form-control" />
             <form:errors path="userName" class="text-danger" />
         </div>
@@ -45,7 +45,7 @@
             <form:password path="confirm" class="form-control" />
             <form:errors path="confirm" class="text-danger" />
         </div>
-        <input type="submit" value="Register" class="btn btn-primary m-3" />
+        <input type="submit" value="Register" class="btn btn-secondary m-3" />
     </form:form>
     
     <h1>Log in</h1>
@@ -60,7 +60,7 @@
             <form:password path="password" class="form-control" />
             <form:errors path="password" class="text-danger" />
         </div>
-        <input type="submit" value="Login" class="btn btn-success m-3" />
+        <input type="submit" value="Login" class="btn btn-secondary m-3" />
     </form:form>
     
 </body>

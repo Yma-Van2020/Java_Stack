@@ -20,7 +20,55 @@
     <!-- YOUR own local CSS -->
     <link rel="stylesheet" href="/css/style.css"/>
 </head>
-<body style="padding: 150px">
-	<h1>dashboard</h1>
+<body style="padding:150px;">
+<div class="d-flex justify-content-between">
+<div><h1>Welcome, <c:out value="${user.userName }"/></h1><br/>
+<h5>Class schedule</h5>
+</div>
+<div>
+<a href="/logout">Logout</a><br/>
+
+</div>
+</div>
+
+			<table class="table border border-black">
+				<thead>
+					<tr>
+						<th>Class Name</th>
+						<th>Instructor</th>
+						<th>Weekday</th>
+						<th>Price</th>
+						<th>Time</th>
+					
+					</tr>
+				</thead>
+				<tbody>
+					<c:forEach items="${ courses }" var="course">
+						<tr>
+							
+							<td>
+							<c:choose>
+							<c:when test="${ user.id == course.instructor.id}"><a href="/courses/${ course.id }"><c:out value="${ course.name }"/></a>
+							 &nbsp;&nbsp;<a class="btn btn-warning" href="/courses/${ course.id }/edit">Edit</a>
+							</c:when>
+							<c:otherwise>
+							<c:out value="${ course.name }"/>
+							</c:otherwise>
+							</c:choose>
+							</td>
+							<td><c:out value="${ course.instructor.userName }"/></td>
+							<td><c:out value="${ course.dayOfWeek }"/></td>
+							<td>	
+							<c:out value="${ course.price }"/>
+							</td>
+							<td>	
+							<c:out value="${ course.time }"/>
+							</td>
+						</tr>
+					</c:forEach>
+				</tbody>
+			</table>
+
+<a href="/courses/new">+ New Class</a>
 </body>
 </html>

@@ -13,8 +13,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 
+import com.kateyn.myBeltExam.models.Course;
 import com.kateyn.myBeltExam.models.LoginUser;
 import com.kateyn.myBeltExam.models.User;
+import com.kateyn.myBeltExam.services.CourseService;
 import com.kateyn.myBeltExam.services.UserService;
 
 @Controller
@@ -23,6 +25,8 @@ public class HomeController {
 	@Autowired
 	private UserService userServ;
 
+	@Autowired 
+	CourseService courseServ;
 	
 	@GetMapping("/")
 	public String index(Model model, HttpSession session) {
@@ -72,10 +76,10 @@ public class HomeController {
 		}
 		Long id = (Long) session.getAttribute("user_id");
 		User user = userServ.getUserById(id);
-//		List<Book> allBooks = bookServ.getAllBooks();
+		List<Course> allCourses = courseServ.getAllCourses();
 
 		
-//		model.addAttribute("books", allBooks);
+		model.addAttribute("courses", allCourses);
 		model.addAttribute("user", user);
 		return "dashboard.jsp";
 	}
